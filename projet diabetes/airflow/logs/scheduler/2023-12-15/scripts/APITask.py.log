@@ -984,3 +984,18 @@ ModuleNotFoundError: No module named 'models'
 [2023-12-15T22:45:14.729+0000] {logging_mixin.py:154} INFO - [2023-12-15T22:45:14.728+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/APITask.py
 [2023-12-15T22:45:16.339+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/APITask.py
 [2023-12-15T22:45:16.360+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/APITask.py took 1.640 seconds
+[2023-12-15T22:45:46.652+0000] {processor.py:157} INFO - Started process (PID=7525) to work on /opt/airflow/dags/scripts/APITask.py
+[2023-12-15T22:45:46.653+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/APITask.py for tasks to queue
+[2023-12-15T22:45:46.655+0000] {logging_mixin.py:154} INFO - [2023-12-15T22:45:46.654+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/APITask.py
+[2023-12-15T22:45:48.379+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/APITask.py
+[2023-12-15T22:45:48.400+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/APITask.py took 1.751 seconds
+[2023-12-15T22:46:18.749+0000] {processor.py:157} INFO - Started process (PID=7564) to work on /opt/airflow/dags/scripts/APITask.py
+[2023-12-15T22:46:18.750+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/APITask.py for tasks to queue
+[2023-12-15T22:46:18.752+0000] {logging_mixin.py:154} INFO - [2023-12-15T22:46:18.751+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/APITask.py
+[2023-12-15T22:46:20.301+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/APITask.py
+[2023-12-15T22:46:20.320+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/APITask.py took 1.576 seconds
+[2023-12-15T22:46:50.610+0000] {processor.py:157} INFO - Started process (PID=7603) to work on /opt/airflow/dags/scripts/APITask.py
+[2023-12-15T22:46:50.611+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/APITask.py for tasks to queue
+[2023-12-15T22:46:50.612+0000] {logging_mixin.py:154} INFO - [2023-12-15T22:46:50.612+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/APITask.py
+[2023-12-15T22:46:52.191+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/APITask.py
+[2023-12-15T22:46:52.209+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/APITask.py took 1.602 seconds

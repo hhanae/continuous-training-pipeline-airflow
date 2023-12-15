@@ -471,3 +471,36 @@ File Path                                    PID    Runtime      # DAGs    # Err
 /opt/airflow/dags/dag2.py                                             1           0  0.40s           2023-12-15T22:44:45
 /opt/airflow/dags/scripts/welcome_dag.py                              1           0  0.30s           2023-12-15T22:44:49
 ================================================================================
+[2023-12-15T22:45:48.440+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/scripts/APITask.py                                  0           0  1.81s           2023-12-15T22:45:48
+/opt/airflow/dags/scripts/Final_diabetes.py                           0           0  1.11s           2023-12-15T22:45:20
+/opt/airflow/dags/dag2.py                                             1           0  0.31s           2023-12-15T22:45:17
+/opt/airflow/dags/scripts/welcome_dag.py                              1           0  0.30s           2023-12-15T22:45:20
+================================================================================
+[2023-12-15T22:46:20.333+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/scripts/APITask.py                                  0           0  1.62s           2023-12-15T22:46:20
+/opt/airflow/dags/scripts/Final_diabetes.py                           0           0  1.11s           2023-12-15T22:45:52
+/opt/airflow/dags/dag2.py                                             1           0  0.40s           2023-12-15T22:45:50
+/opt/airflow/dags/scripts/welcome_dag.py                              1           0  0.30s           2023-12-15T22:45:53
+================================================================================
+[2023-12-15T22:46:52.300+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/scripts/APITask.py                                  0           0  1.71s           2023-12-15T22:46:52
+/opt/airflow/dags/scripts/Final_diabetes.py                           0           0  1.41s           2023-12-15T22:46:24
+/opt/airflow/dags/dag2.py                                             1           0  0.40s           2023-12-15T22:46:21
+/opt/airflow/dags/scripts/welcome_dag.py                              1           0  0.30s           2023-12-15T22:46:25
+================================================================================
