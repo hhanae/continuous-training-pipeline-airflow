@@ -1308,3 +1308,73 @@
 [2023-12-15T22:37:50.576+0000] {logging_mixin.py:154} INFO - [2023-12-15T22:37:50.575+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/Final_diabetes.py
 [2023-12-15T22:37:51.502+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/Final_diabetes.py
 [2023-12-15T22:37:51.522+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/Final_diabetes.py took 0.951 seconds
+[2023-12-15T22:38:22.265+0000] {processor.py:157} INFO - Started process (PID=7002) to work on /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:38:22.266+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/Final_diabetes.py for tasks to queue
+[2023-12-15T22:38:22.266+0000] {logging_mixin.py:154} INFO - [2023-12-15T22:38:22.266+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:38:23.174+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:38:23.193+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/Final_diabetes.py took 0.931 seconds
+[2023-12-15T22:38:54.169+0000] {processor.py:157} INFO - Started process (PID=7041) to work on /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:38:54.169+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/Final_diabetes.py for tasks to queue
+[2023-12-15T22:38:54.170+0000] {logging_mixin.py:154} INFO - [2023-12-15T22:38:54.170+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:38:55.143+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:38:55.163+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/Final_diabetes.py took 0.998 seconds
+[2023-12-15T22:39:26.231+0000] {processor.py:157} INFO - Started process (PID=7080) to work on /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:39:26.231+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/Final_diabetes.py for tasks to queue
+[2023-12-15T22:39:26.232+0000] {logging_mixin.py:154} INFO - [2023-12-15T22:39:26.232+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:39:27.138+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:39:27.156+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/Final_diabetes.py took 0.929 seconds
+[2023-12-15T22:39:58.629+0000] {processor.py:157} INFO - Started process (PID=7119) to work on /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:39:58.630+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/Final_diabetes.py for tasks to queue
+[2023-12-15T22:39:58.631+0000] {logging_mixin.py:154} INFO - [2023-12-15T22:39:58.631+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:39:59.680+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:39:59.699+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/Final_diabetes.py took 1.075 seconds
+[2023-12-15T22:40:31.408+0000] {processor.py:157} INFO - Started process (PID=7158) to work on /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:40:31.409+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/Final_diabetes.py for tasks to queue
+[2023-12-15T22:40:31.410+0000] {logging_mixin.py:154} INFO - [2023-12-15T22:40:31.410+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:40:32.463+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:40:32.488+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/Final_diabetes.py took 1.084 seconds
+[2023-12-15T22:41:03.658+0000] {processor.py:157} INFO - Started process (PID=7197) to work on /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:41:03.658+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/Final_diabetes.py for tasks to queue
+[2023-12-15T22:41:03.659+0000] {logging_mixin.py:154} INFO - [2023-12-15T22:41:03.659+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:41:04.617+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:41:04.637+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/Final_diabetes.py took 0.982 seconds
+[2023-12-15T22:41:35.434+0000] {processor.py:157} INFO - Started process (PID=7236) to work on /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:41:35.435+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/Final_diabetes.py for tasks to queue
+[2023-12-15T22:41:35.436+0000] {logging_mixin.py:154} INFO - [2023-12-15T22:41:35.436+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:41:36.399+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:41:36.423+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/Final_diabetes.py took 0.992 seconds
+[2023-12-15T22:42:07.381+0000] {processor.py:157} INFO - Started process (PID=7275) to work on /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:42:07.382+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/Final_diabetes.py for tasks to queue
+[2023-12-15T22:42:07.383+0000] {logging_mixin.py:154} INFO - [2023-12-15T22:42:07.382+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:42:08.312+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:42:08.333+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/Final_diabetes.py took 0.956 seconds
+[2023-12-15T22:42:39.582+0000] {processor.py:157} INFO - Started process (PID=7314) to work on /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:42:39.582+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/Final_diabetes.py for tasks to queue
+[2023-12-15T22:42:39.584+0000] {logging_mixin.py:154} INFO - [2023-12-15T22:42:39.584+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:42:40.710+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:42:40.731+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/Final_diabetes.py took 1.153 seconds
+[2023-12-15T22:43:11.504+0000] {processor.py:157} INFO - Started process (PID=7353) to work on /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:43:11.505+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/Final_diabetes.py for tasks to queue
+[2023-12-15T22:43:11.506+0000] {logging_mixin.py:154} INFO - [2023-12-15T22:43:11.506+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:43:12.542+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:43:12.563+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/Final_diabetes.py took 1.063 seconds
+[2023-12-15T22:43:43.356+0000] {processor.py:157} INFO - Started process (PID=7392) to work on /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:43:43.357+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/Final_diabetes.py for tasks to queue
+[2023-12-15T22:43:43.358+0000] {logging_mixin.py:154} INFO - [2023-12-15T22:43:43.358+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:43:44.302+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:43:44.324+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/Final_diabetes.py took 0.971 seconds
+[2023-12-15T22:44:15.252+0000] {processor.py:157} INFO - Started process (PID=7431) to work on /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:44:15.253+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/Final_diabetes.py for tasks to queue
+[2023-12-15T22:44:15.254+0000] {logging_mixin.py:154} INFO - [2023-12-15T22:44:15.254+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:44:16.280+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:44:16.303+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/Final_diabetes.py took 1.055 seconds
+[2023-12-15T22:44:47.136+0000] {processor.py:157} INFO - Started process (PID=7470) to work on /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:44:47.137+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/Final_diabetes.py for tasks to queue
+[2023-12-15T22:44:47.138+0000] {logging_mixin.py:154} INFO - [2023-12-15T22:44:47.138+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:44:48.131+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:44:48.153+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/Final_diabetes.py took 1.022 seconds
+[2023-12-15T22:45:19.041+0000] {processor.py:157} INFO - Started process (PID=7509) to work on /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:45:19.041+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/scripts/Final_diabetes.py for tasks to queue
+[2023-12-15T22:45:19.043+0000] {logging_mixin.py:154} INFO - [2023-12-15T22:45:19.042+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:45:20.043+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/Final_diabetes.py
+[2023-12-15T22:45:20.063+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/Final_diabetes.py took 1.025 seconds
